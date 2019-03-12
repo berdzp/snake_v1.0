@@ -107,12 +107,12 @@ public class MinesweeperGame extends Game {
 
     private void win(){
         isGameStopped = true;
-        showMessageDialog(Color.BLACK, "VICTORY!", Color.RED, 36);
+        showMessageDialog(Color.BLACK, "VICTORY!!!", Color.RED, 56);
     }
 
     private void gameOver(){
         isGameStopped = true;
-        showMessageDialog(Color.BLACK, "BOOOOOM", Color.RED, 36);
+        showMessageDialog(Color.BLACK, "BOOOOOM!!!", Color.RED, 56);
     }
 
     private void restart(){
