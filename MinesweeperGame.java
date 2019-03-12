@@ -175,3 +175,4 @@ public class MinesweeperGame extends Game {
         return listOfNeighbors;
     }
 }
+

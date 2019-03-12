@@ -16,3 +16,4 @@ public class GameObject {
             this.isMine = isMine;
     }
 }
+
