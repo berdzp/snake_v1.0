@@ -1,5 +1,10 @@
 Description
 v1.1
 
+-You can compile all java files yourself
+-All compiled classes are in /clases
+-or run application using /out/MinesWeeper.jar
+
+To restart the game use SPACE
 
 Made by berdzp
